@@ -36,4 +36,4 @@ This repository stores a basic spaceship video game programmed in Python languag
 
 
 ## Hiring 🤝🏿
-If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
+If you wish to hire us, please contact us at the following e-mail address: t3.aila.dev@gmail.com
