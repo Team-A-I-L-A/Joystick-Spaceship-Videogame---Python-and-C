@@ -1,10 +1,14 @@
 # Joystick Spaceship Videogame - Python and C 🚀
 This repository stores a basic spaceship video game programmed in Python language that can be controlled by an electronic Joystick built with the PIC microcontroller PIC16F877 programmed in C language.
 
-## Author 👤
+## Lead Engineers 👤
 **Luis Ángel Sánchez Aguilar** -> Code and electronic design
 
 * [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+
+**Roger Aldo Acosta Baltodano** -> Code design
+
+* [LinkedIn](https://www.linkedin.com/in/roger-aldo-acosta-baltodano/)
 
 **Valeria Nicole Rodríguez Ponce** -> Electronic design and implementation
 
@@ -32,5 +36,4 @@ This repository stores a basic spaceship video game programmed in Python languag
 
 
 ## Hiring 🤝🏿
-
-If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
+If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
