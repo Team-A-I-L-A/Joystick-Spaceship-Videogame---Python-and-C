@@ -10,10 +10,6 @@ This repository stores a basic spaceship video game programmed in Python languag
 
 * [LinkedIn](https://www.linkedin.com/in/roger-aldo-acosta-baltodano/)
 
-**Valeria Nicole Rodríguez Ponce** -> Electronic design and implementation
-
-* [LinkedIn](https://www.linkedin.com/in/valeriarodriguezp/)
-
 ## Folders description 📁
 
 * **[MICROCONTROLADOR]**: This folder contains the code in C language and the necessary libraries for the logic and communication of the joystick implemented with a PIC C microcontroller.
